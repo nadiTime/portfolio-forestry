@@ -1,8 +1,8 @@
 ---
-date: 2019-06-07
-title: Gridsome with Forestry CMS
+date: 2020-04-26
+title: Nadi is the best
 author: Nichlas W. Andersen
-excerpt: Get up and running with Forestry CMS, a git-backed headless CMS with a slick editing interface.
+excerpt: So we were thinking to fucking kill you
 
 ---
 #### Use Forestry as a CMS for Gridsome
